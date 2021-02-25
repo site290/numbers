@@ -8,7 +8,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
 
 ___
 
@@ -17,7 +17,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
 
 ___
 
@@ -35,6 +35,6 @@ ___
 ```
 
 
-![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
 
 ___
