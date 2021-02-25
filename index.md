@@ -29,3 +29,12 @@ ___
 ![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
 
 ___
+
+```
++79625340499 - Владимир Ванякин
+```
+
+
+![https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic](https://img.shields.io/badge/WhatsApp-Yes-green?style=plastic)
+
+___
