@@ -39,3 +39,12 @@ ___
 <a href="https://api.whatsapp.com/send?phone=79625340499" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79625340499](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79625340499)</a>
 
 ___
+
+```
++79273020910 - Роман Сафин
+```
+
+
+<a href="https://api.whatsapp.com/send?phone=79273020910" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79273020910](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79273020910)</a>
+
+___
