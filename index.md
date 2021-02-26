@@ -8,7 +8,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79870344292](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79870344292)
 
 ___
 
@@ -17,7 +17,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79373410717](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79373410717)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79871395473](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79871395473)
 
 ___
 
@@ -35,6 +35,6 @@ ___
 ```
 
 
-![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)
+![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79625340499](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=api.whatsapp.com/send?phone=79625340499)
 
 ___
