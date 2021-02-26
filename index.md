@@ -9,7 +9,7 @@ ___
 ```
 
 
-![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79870344292](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79870344292)
+<a href="https://api.whatsapp.com/send?phone=79870344292">[https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79870344292](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic&link=https://api.whatsapp.com/send?phone=79870344292)</a>
 
 ___
 
