@@ -56,6 +56,36 @@ ___
 StartTyping();
 })();
 </script>
+<br />
+<a href="#" id="show_hide_tlink" onclick="ShowHide();return false;">Показать</a>
+
+<div id="show_hide_content" style="display: none;">
+    Эти люди чем-то мне навредили, и теперь расплачиваются за это)
+</div>
+<style>
+ #show_hide_content {
+    margin-top: 10px;
+    width: 500px;
+    height: 200px;
+    border: solid 1px #000000;
+    padding: 5px;
+    background-color: #FFFFFF;
+    overflow: auto;
+ }
+</style>
+<script>
+ function ShowHide(){
+    var shContent = document.getElementById("show_hide_content");
+    var linkName = document.getElementById('show_hide_tlink');
+   if(linkName.innerText == 'Показать'){
+       linkName.innerText ='Скрыть';
+       shContent.style.display = 'block';
+     }else{
+       linkName.innerText = 'Показать';
+       shContent.style.display = 'none';
+   }
+ }
+</script>
 
 ___
 
