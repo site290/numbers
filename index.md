@@ -69,7 +69,7 @@ StartTyping();
     height: 200px;
     border: solid 1px #000000;
     padding: 5px;
-    background-color: #FFFFFF;
+    background-color: #000000;
     overflow: auto;
  }
 </style>
