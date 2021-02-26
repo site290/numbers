@@ -31,7 +31,7 @@ ___
    var NxtMsgDelay = 1000;
    var MsgIndex = 0;
    var delay;
-   var MsgArray = ["Привет","Это я","А это мой сайт"];
+   var MsgArray = ["Привет","Это я","А это мой сайт","Не для слабонервных"];
 
    function StartTyping() {
       var id = document.getElementById("typing-text");
