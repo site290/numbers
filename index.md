@@ -17,7 +17,7 @@ ___
      font-size: 15px;
      padding: 5px;
      height: 30px;
-     max-width: 100%;
+     width: 100%;
      outline: none;
      resize: none;
      box-sizing: border-box;
@@ -65,7 +65,7 @@ StartTyping();
 <style>
  #show_hide_content {
     margin-top: 10px;
-    max-width: 100%;
+    width: 100%;
     height: 200px;
     border: solid 1px #000000;
     padding: 5px;
