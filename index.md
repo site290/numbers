@@ -1,7 +1,24 @@
 # Номера
 ## Здесь опубликованы номера людей
 ###### Чтобы начать чат, нажмите на картинку под номером.
+<script>
+  function disableselect(e){  
+     return false  
+  }  
 
+  function reEnable(){  
+     return true  
+  }  
+
+//if IE4+  
+   document.oncontextmenu=new Function ("return false")  
+//if NS6  
+  if (window.sidebar){  
+     document.onmousedown=disableselect  
+     document.onclick=reEnable  
+}  
+ </script> 
+ 
 ___
 
 <textarea id="typing-text" readonly></textarea>
