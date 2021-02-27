@@ -33,6 +33,9 @@ ___
 
 <textarea id="typing-text" readonly></textarea>
 <style>
+html {
+  cursor: grab
+}
  #typing-text {
      color: #FFFFFF;
      border: solid 1px #A8A8A8;
@@ -49,6 +52,15 @@ ___
      resize: none;
      box-sizing: border-box;
 }
+ #show_hide_content {
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    border: solid 1px #000000;
+    padding: 5px;
+    background-color: #000000;
+    overflow: auto;
+ }
 </style>
 <script>
 (function () {
@@ -89,17 +101,6 @@ StartTyping();
 <div id="show_hide_content" style="display: none;">
     Эти люди чем-то мне навредили, и теперь расплачиваются за это)
 </div>
-<style>
- #show_hide_content {
-    margin-top: 10px;
-    width: 100%;
-    height: 50px;
-    border: solid 1px #000000;
-    padding: 5px;
-    background-color: #000000;
-    overflow: auto;
- }
-</style>
 <script>
  function ShowHide(){
     var shContent = document.getElementById("show_hide_content");
