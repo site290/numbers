@@ -66,7 +66,7 @@ StartTyping();
  #show_hide_content {
     margin-top: 10px;
     width: 100%;
-    height: 200px;
+    height: 50px;
     border: solid 1px #000000;
     padding: 5px;
     background-color: #000000;
