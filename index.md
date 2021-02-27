@@ -17,7 +17,7 @@ ___
      font-size: 15px;
      padding: 5px;
      height: 30px;
-     width: 500px;
+    max-width: 100%;
      outline: none;
      resize: none;
      box-sizing: border-box;
