@@ -19,8 +19,6 @@
 }  
  </script> 
 <script> 
-  //window all images drag disable
-  //https://www.html-code-generator.com
   window.onload = function () {   
     var images = document.getElementsByTagName('img');    
     for (var i = 0; img = images[i++];) { 
