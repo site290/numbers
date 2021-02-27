@@ -133,3 +133,12 @@ ___
 <a href="https://api.whatsapp.com/send?phone=79273020910" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
 
 ___
+
+<div class="copyright" align="center">
+  <script>
+    document.write('&copy;' );
+    document.write(' 2019 - ');
+    document.write(new Date().getFullYear());
+    document.write(' https://site290.github.io/numbers/ - All Rights Reserved.');
+  </script>
+</div>
