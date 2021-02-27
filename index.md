@@ -1,3 +1,7 @@
+<div style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" 
+ unselectable="on"
+ onselectstart="return false;" 
+ onmousedown="return false;">
 # Номера
 ## Здесь опубликованы номера людей
 ###### Чтобы начать чат, нажмите на картинку под номером.
@@ -141,4 +145,5 @@ ___
     document.write(new Date().getFullYear());
     document.write(' https://site290.github.io/numbers/ - All Rights Reserved.');
   </script>
+</div>
 </div>
