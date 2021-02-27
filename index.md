@@ -34,7 +34,7 @@ ___
 <textarea id="typing-text" readonly></textarea>
 <style>
 html {
-  cursor: grab
+  cursor: url('curs.png') text
 }
  #typing-text {
      color: #FFFFFF;
