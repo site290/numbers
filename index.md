@@ -111,7 +111,7 @@ ___
 ```
 
 
-<a href="https://api.whatsapp.com/send?phone=79870344292" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
+<a href="https://api.whatsapp.com/send?phone=79870344292" align="center"><img src="https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic" alt="WhatsApp Yes"></a>
 
 ___
 
@@ -120,7 +120,7 @@ ___
 ```
 
 
-<a href="https://api.whatsapp.com/send?phone=79373410717" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
+<a href="https://api.whatsapp.com/send?phone=79373410717" align="center"><img src="https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic" alt="WhatsApp Yes"></a>
 
 ___
 
@@ -129,7 +129,7 @@ ___
 ```
 
 
-<a href="https://api.whatsapp.com/send?phone=79871395473" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
+<a href="https://api.whatsapp.com/send?phone=79871395473" align="center"><img src="https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic" alt="WhatsApp Yes"></a>
 
 ___
 
@@ -138,7 +138,7 @@ ___
 ```
 
 
-<a href="https://api.whatsapp.com/send?phone=79625340499" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
+<a href="https://api.whatsapp.com/send?phone=79625340499" align="center"><img src="https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic" alt="WhatsApp Yes"></a>
 
 ___
 
@@ -147,7 +147,7 @@ ___
 ```
 
 
-<a href="https://api.whatsapp.com/send?phone=79273020910" align="center">![https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic](https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic)</a>
+<a href="https://api.whatsapp.com/send?phone=79273020910" align="center"><img src="https://img.shields.io/badge/ВотсАпп-Есть-green?style=plastic" alt="WhatsApp Yes"></a>
 
 ___
 
